@@ -1,0 +1,1 @@
+Clase que permite la creación y manipulación de popups, con la posibilidad de agregar eventos al popup y ejecutarlos desde la ventana padre o viceversa.
